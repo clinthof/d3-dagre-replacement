@@ -1,0 +1,20 @@
+{
+  "name": "dagre-d3-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "d3": "5.9.2",
+    "dagre": "0.8.4",
+    "dagre-d3": "0.6.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
